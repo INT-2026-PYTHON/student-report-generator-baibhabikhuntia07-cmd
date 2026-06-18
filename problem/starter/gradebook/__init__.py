@@ -6,3 +6,7 @@
 # Hint:
 #   from .data import RECORDS
 #   from .reports import format_report
+'''bash
+cd starter
+python3 main.py
+'''
